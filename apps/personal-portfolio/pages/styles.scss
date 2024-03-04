@@ -582,6 +582,7 @@ ol {
   .logo {
     display: inline-block;
     z-index: 16;
+    color: white;;
 
     img {
       display: block;
@@ -1923,6 +1924,7 @@ ol {
 .footer-area .footer-content {
   .logo {
     display: inline-block;
+    color: white;
 
     img {
       display: block;
@@ -1954,12 +1956,12 @@ ol {
 
   .copyright {
     margin: 0;
-    color: #727272;
-    font-size: 14px;
+    color: white;
+    font-size: 17px;
     font-weight: 500;
 
-    span {
-      color: var(--primary_color);
+    a {
+      color: white;
     }
   }
 }

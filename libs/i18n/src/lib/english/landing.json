@@ -1,11 +1,11 @@
 {
   "bio": {
-    "heading": "Sal Anvarov.",
-    "caption": "Designer & Full Stack Developer",
-    "description": "System designer, strategist and web development guru. Builds UX rich and performant websites. Sal had the privilege of building software and consulting for start-ups and big corporations.",
-    "descriptionExtended": "Currently contributing to the design and development efforts at <span class='text-primary-color'>Oproma</span>.",
-    "location": "📍 Based in Toronto.",
-    "media": "/assets/3d-headshot.png",
+    "heading": "LuxePark",
+    "caption": "Партнёр Яндекс.Такси",
+    "description": "Таксопарк, который заботится о таксистах, стремится создать дружественную и поддерживающую атмосферу, где водители чувствуют себя уважаемыми, ценными и защищенными.",
+    "descriptionExtended": "Таксопарк играет важную роль, обеспечивая жителей и гостей возможностью быстро и удобно добираться до нужного <span class='text-primary-color'>места.</span>",
+    "location": "📍 Воронеж",
+    "media": "/assets/headshot.jpg",
     "button": {
       "link": "/bio",
       "icon": {

@@ -29,7 +29,7 @@ export const Header = () => {
       <div className="container">
         <div className="gx-row d-flex align-items-center justify-content-between">
           <Link href="/" className="logo">
-            <img src="/assets/logo/logo.png" alt="Logo" />
+            <h2>yataxipro</h2>
           </Link>
           <nav
             className={classNames('navbar', { active: displayMobileNavbar })}
@@ -52,7 +52,7 @@ export const Header = () => {
               <span role="img" aria-label="coffee">
                 ☕
               </span>{' '}
-              Chat with Sal
+              Записаться
             </a>
           </nav>
 

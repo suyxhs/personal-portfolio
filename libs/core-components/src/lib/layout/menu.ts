@@ -1,22 +1,22 @@
 export const menu = [
   {
-    label: 'Landing',
+    label: 'Домой',
     path: '/',
   },
   {
-    label: 'Bio',
+    label: 'О нас',
     path: '/bio',
   },
   {
-    label: 'Portfolio',
+    label: 'Партнёры',
     path: '/portfolio',
   },
   {
-    label: 'Blog',
+    label: 'Блог',
     path: '/posts',
   },
   {
-    label: 'Contact',
+    label: 'Контакты',
     path: '/contact',
   },
 ];

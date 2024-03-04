@@ -51,13 +51,13 @@ const LandingPage = () => {
                     <div className="marquee">
                       <div>
                         <span>
-                          PERSONAL CV AND <b>BLOG</b>{' '}
+                          Портфолио yataxipro и <b>БЛОГ</b>{' '}
                           {Array(4)
                             .fill(0)
                             .map((_, index) => (
                               <Fragment key={index}>
                                 <img src="/assets/star1.svg" alt="Star" />{' '}
-                                PERSONAL CV AND <b>BLOG</b>{' '}
+                                Портфолио yataxipro и <b>БЛОГ</b>{' '}
                               </Fragment>
                             ))}
                           <img src="/assets/star1.svg" alt="Star" />
